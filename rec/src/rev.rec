@@ -1,0 +1,6 @@
+letrec rev_helper(l1) = (* complete *)
+in let rev = {
+    rev
+}
+in let example = cons(1,cons(2,cons(3,emptylist)))
+in (rev example)
